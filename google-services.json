@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620648770433",
+    "project_id": "loginapplication-7acce",
+    "storage_bucket": "loginapplication-7acce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620648770433:android:2c8cb97e2be0800a369680",
+        "android_client_info": {
+          "package_name": "com.example.loginapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzu7ChIUId69sBuK4zptRtngwnQEpnXnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

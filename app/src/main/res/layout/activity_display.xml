@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <!-- Name TextView -->
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: "
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Age TextView -->
+    <TextView
+        android:id="@+id/tvAge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Age: "
+        android:textSize="18sp"
+        android:layout_below="@id/tvName"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Gmail ID TextView -->
+    <TextView
+        android:id="@+id/tvGmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gmail ID: "
+        android:textSize="18sp"
+        android:layout_below="@id/tvAge"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Password TextView -->
+    <TextView
+        android:id="@+id/tvPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password: "
+        android:textSize="18sp"
+        android:layout_below="@id/tvGmail"
+        android:layout_marginBottom="16dp"/>
+    
+</RelativeLayout>
