@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
         etName = findViewById(R.id.etName);
         etAge = findViewById(R.id.etAge);
-        etGmail = findViewById(R.id.etGmail);
+        etGmail = findViewById(R.id.etEmail);
         etPassword = findViewById(R.id.etPassword);
         btnSignup = findViewById(R.id.btnSignup);
 

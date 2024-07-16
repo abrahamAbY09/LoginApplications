@@ -22,7 +22,7 @@ public class DisplayActivity extends AppCompatActivity {
 
         tvName = findViewById(R.id.tvName);
         tvAge = findViewById(R.id.tvAge);
-        tvGmail = findViewById(R.id.tvGmail);
+        tvGmail = findViewById(R.id.tvEmail);
         tvPassword = findViewById(R.id.tvPassword);
 
         // Get the Intent that started this activity and extract the string
